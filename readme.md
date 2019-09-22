@@ -28,9 +28,12 @@ This applcation uses;
 
 ## Support and contact details
 
-{Let people know what to do if they run into any issues or have questions, ideas or concerns. Encourage them to contact you or make a contribution to the code.}
+For any issues or contributions,please feel free to contact me on:
+https://github.com/NzauM/Akan-name-generator./issues for any issues or bug reports.
+https://github.com/NzauM/Akan-name-generator./pulls for any contributions or pull requests.
 
 ### License
 
-_{Determine the license under which this application can be used. See below for more details on licensing.}_
-Copyright (c) {year} **{List of contributors or company name}**
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+MIT License
+\_ **Nzau Mercy @2019**
