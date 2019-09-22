@@ -26,5 +26,10 @@ h1 {
   padding: 50px;
   font-family: "Permanent Marker", cursive;
   color: white;
-  box-shadow: 4px 4px 4px white;
+  box-shadow: 20px 20px 20px white;
+  border: 10px solid white;
+}
+
+.form {
+  background-color: aliceblue;
 }
