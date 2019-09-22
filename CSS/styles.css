@@ -1,0 +1,11 @@
+body {
+  background-image: url("https://media.gettyimages.com/photos/scenic-view-of-beach-picture-id913453358?s=2048x2048");
+}
+
+/* .container {
+  background-image: url("https://media.gettyimages.com/photos/beach-elmina-ghana-west-africa-picture-id146272038?s=2048x2048");
+} */
+
+.container {
+  border: 2px solid white;
+}
