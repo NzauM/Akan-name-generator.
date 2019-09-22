@@ -9,7 +9,14 @@ body {
 .container {
   border: 2px solid white;
   font-family: "Kalam", cursive;
-  /* font-family: "Gruppo", cursive; */
+  /*/*font-family: "Gruppo", cursive;
+	*/
+  border-radius: 15px;
+  -webkit-webkit: border radius 15px;
+  -moz-webkit: border radius 15px;
+  -ms-webkit: border radius 15px;
+  -o-webkit: border radius 15px;
+  webkit: border radius 15px;
 }
 
 h1 {
