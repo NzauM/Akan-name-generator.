@@ -15,7 +15,8 @@ You will just need to enter your birthday as per the instructions.
 - Save it to the directiry of your choice
 - Open your terminal in the directory of the project
 - Move to the vscode where the coding was done
-- I added the changes as i commit to the git
+- Work on the changes as you like
+- Push the project to your repository.
 
 ## Technologies Used
 
