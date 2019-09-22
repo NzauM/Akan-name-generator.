@@ -2,7 +2,7 @@
 
 #### This application lets you calculate the day you were born an dgenerates an Akan name, Sept 2019.
 
-#### By **{List of contributors}**
+#### By ** Nzau Mercy mercywaenu16@gmail.com **
 
 ## Description
 
@@ -28,8 +28,8 @@ This applcation uses;
 
 ## Support and contact details
 
-For any issues or contributions,please feel free to contact me on:
-https://github.com/NzauM/Akan-name-generator./issues for any issues or bug reports.
+For any issues or contributions,please feel free to contact me on:<br>
+https://github.com/NzauM/Akan-name-generator./issues for any issues or bug reports.<br>
 https://github.com/NzauM/Akan-name-generator./pulls for any contributions or pull requests.
 
 ### License
