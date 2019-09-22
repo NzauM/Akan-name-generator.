@@ -34,3 +34,8 @@ h1 {
 .form {
   background-color: aliceblue;
 }
+
+footer {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMvyemRKcotD326PBh484jfNKZ7RLBbNOVGk6nSRX50MMQkTiF");
+  padding: 15px;
+}
